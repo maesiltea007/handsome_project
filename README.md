@@ -1,3 +1,2 @@
 # Steve Jobs said:
->Think different
->Be hungry
+>Think different >Be hungry
